@@ -8,13 +8,9 @@
 
 **编者~~小编~~：** [$\color{#5eb95e}\textbf{oistr}$](https://www.luogu.com.cn/user/180720)，[$\color{#0e90d2}\textbf{DOCTYPE\_OIers}$](https://www.luogu.com.cn/user/222382)
 
-本文版权归属所有参与编写人员所有，转载请注明以下信息：
+本文采用 **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)** 许可证进行许可。
 
-```markdown
-- 作者 : [oistr](https://www.luogu.com.cn/user/180720), [DOCTYPE_OIers](https://www.luogu.com.cn/user/222382)
-- 原文链接 : <https://www.luogu.com.cn/blog/ois/luogu-guide>
-- **本文版权归以上作者所有, 转载请注明以上作者 ( 及其洛谷主页链接 ) , 原文链接 , 以及此句话.**
-```
+**善意的提醒**：如您需要转载本文，请点击上述许可证的链接，认真阅读上述许可证。
 
 # 贡献
 我计划为本手册在 $\text{Github}$ 上开设一个 $\text{Repository}$。但现阶段如有建议您可以直接在此博文下面评论说明。
