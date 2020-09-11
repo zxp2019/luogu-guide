@@ -6,16 +6,16 @@
 
 本生存手册**非官方**版本，我会在合适的位置给出官方文档的链接以供参考。
 
-**编者~~小编~~：** [$\color{#5eb95e}\textbf{oistr}$](https://www.luogu.com.cn/user/180720)，[$\color{#0e90d2}\textbf{DOCTYPE\_OIers}$](https://www.luogu.com.cn/user/222382)
+**编者~~小编~~：** [oistr](https://www.luogu.com.cn/user/180720)，[DOCTYPE\_OIers](https://www.luogu.com.cn/user/222382)
 
 本文采用 **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)** 许可证进行许可。
 
 **善意的提醒**：如您需要转载本文，请点击上述许可证的链接，认真阅读上述许可证。
 
 # 贡献
-我计划为本手册在 $\text{Github}$ 上开设一个 $\text{Repository}$。但现阶段如有建议您可以直接在此博文下面评论说明。
+我计划为本手册在 Github 上开设一个 $\text{Repository}$。但现阶段如有建议您可以直接在此博文下面评论说明。
 
-**$\textbf{Repository}$ 已经开设好了：[zxp2019/luogu-guide: 《洛谷生存手册》官方仓库 | A guide for Luogu](https://github.com/zxp2019/luogu-guide)，欢迎大家去提 [Issues](https://github.com/zxp2019/luogu-guide/issues) 或者 fork+ [PR](https://github.com/zxp2019/luogu-guide/pulls) 贡献你的一份力量。**
+**Repository 已经开设好了：[zxp2019/luogu-guide: 《洛谷生存手册》官方仓库 | A guide for Luogu](https://github.com/zxp2019/luogu-guide)，欢迎大家去提 [Issues](https://github.com/zxp2019/luogu-guide/issues) 或者 fork+ [PR](https://github.com/zxp2019/luogu-guide/pulls) 贡献你的一份力量。**
 
 我的能力有限，有些地方自己也不太懂/没试过。我会在这些地方标注 `（需要补充）` 。我诚邀有了解这些功能的大佬补充。
 
