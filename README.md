@@ -21,3 +21,12 @@
 
 # 定位
 我尽可能使本手册**通俗易懂**，因此您只要有小学语文水平应该就可以读懂。
+
+# 导航栏
+
+因为写的比较长，长文编辑起来会比较卡，因此我决定分卷进行。这是**第一卷**。本卷主要介绍以下内容。
+
+- Part 1.注册账号
+- Part 2.开始刷题
+
+**全文导航详见 [洛谷生存手册 | 导航](https://www.luogu.com.cn/blog/ois/luogu-guide)**，**[目录](https://github.com/zxp2019/luogu-guide/blob/master/contents.md)**，**[更新日志](https://github.com/zxp2019/luogu-guide/blob/master/update.md)**。
