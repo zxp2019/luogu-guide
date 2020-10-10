@@ -30,3 +30,9 @@
 - Part 2.开始刷题
 
 **全文导航详见 [洛谷生存手册 | 导航](https://www.luogu.com.cn/blog/ois/luogu-guide)**，**[目录](https://github.com/zxp2019/luogu-guide/blob/master/contents.md)**，**[更新日志](https://github.com/zxp2019/luogu-guide/blob/master/update.md)**。
+
+# 在阅读之前 ...
+
+本手册较长，**不建议**一遍阅读完。建议您在**需要用到相应功能的时候再去阅读相应的部分**。虽然看起来较长，但实际跟着做其实也不需要花太多时间。
+
+您可以按 `Ctrl` + `F` 然后输入关键字全文搜索（例如 `题解`），然后直接跳到相应部分阅读。
